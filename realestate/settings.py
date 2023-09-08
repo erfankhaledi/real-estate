@@ -112,10 +112,10 @@ MESSAGE_TAGS = {
 }
 
 # Emails
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'erfan.kha791@gmail.com'
-EMAIL_HOST_PASSWORD = '01740225e'
-EMAIL_USE_TLS=True
+# EMAIL_HOST = 'smtp.gmail.com'
+# EMAIL_PORT = 587
+# EMAIL_HOST_USER = 'erfan.kha791@gmail.com'
+# EMAIL_HOST_PASSWORD = '01740225e'
+# EMAIL_USE_TLS=True
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
